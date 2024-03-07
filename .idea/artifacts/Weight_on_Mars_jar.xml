@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Weight on Mars:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Weight_on_Mars_jar</output-path>
+    <root id="archive" name="Weight on Mars.jar">
+      <element id="module-output" name="Weight on Mars" />
+    </root>
+  </artifact>
+</component>
